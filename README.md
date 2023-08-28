@@ -12,6 +12,8 @@ In this project tech stack are :
 
 4. In the Contact page, I embedded the Map From " GOOGLE MAPS "  and the Mail service in which free api call " FORMSPREE API " service is used.
 
-5. And other packages were " AXIOS " for URL , " React-Icons " for icons components , " React-Router-Dom " for Navigation
+5. And other packages were " AXIOS " for URL , " React-Icons " for icons components , " React-Router-Dom " for Navigation.
+
+6. LogIn and LogOut : " AuthO " api is used .
 
 
