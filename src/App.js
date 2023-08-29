@@ -49,13 +49,13 @@ const App = () => {
       <Header />
 
       <Routes>
-        <Route path="/" element={ <Home />} />
+        <Route path="/*" element={ <Home />} />
         <Route path="/about" element={ <About />} />
         <Route path="/products" element={ <Products />} />
         <Route path="/contact" element={ <Contact />} />
         <Route path="/singleproduct/:id" element={ <SingleProduct />} />
         <Route path="/cart" element={ <Cart />} />
-        <Route path="*" element={ <ErrorPage />} />
+        {/* <Route path="*" element={ <ErrorPage />} /> */}
       </Routes>
 
       <Footer />
