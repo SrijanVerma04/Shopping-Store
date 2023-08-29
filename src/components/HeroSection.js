@@ -3,6 +3,8 @@ import { NavLink } from 'react-router-dom';
 import styled from 'styled-components';
 import {Button} from "../styles/Button"
 
+import img2 from "../assets/hero.jpg"
+
 const HeroSection = ( { name } ) => {
   return <Wrapper>
         <div className='container'>
@@ -25,7 +27,7 @@ const HeroSection = ( { name } ) => {
                 <div className="hero-section-image">
                     <figure>
                         <img
-                            src="images/hero.jpg"
+                            src={img2}
                             alt="hero-section-photo"
                             className="img-style" />
                     </figure>
