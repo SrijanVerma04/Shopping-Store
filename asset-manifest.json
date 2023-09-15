@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/totalitycorp-frontend-challenge/static/css/main.e6c13ad2.css",
-    "main.js": "/totalitycorp-frontend-challenge/static/js/main.783d2ac8.js",
-    "static/js/787.34115356.chunk.js": "/totalitycorp-frontend-challenge/static/js/787.34115356.chunk.js",
-    "static/media/hero.jpg": "/totalitycorp-frontend-challenge/static/media/hero.b586ec90be71b6bea8cf.jpg",
-    "index.html": "/totalitycorp-frontend-challenge/index.html",
-    "main.e6c13ad2.css.map": "/totalitycorp-frontend-challenge/static/css/main.e6c13ad2.css.map",
-    "main.783d2ac8.js.map": "/totalitycorp-frontend-challenge/static/js/main.783d2ac8.js.map",
-    "787.34115356.chunk.js.map": "/totalitycorp-frontend-challenge/static/js/787.34115356.chunk.js.map"
+    "main.css": "/Shopping-Store/static/css/main.e6c13ad2.css",
+    "main.js": "/Shopping-Store/static/js/main.c8decee6.js",
+    "static/js/787.34115356.chunk.js": "/Shopping-Store/static/js/787.34115356.chunk.js",
+    "static/media/hero.jpg": "/Shopping-Store/static/media/hero.b586ec90be71b6bea8cf.jpg",
+    "index.html": "/Shopping-Store/index.html",
+    "main.e6c13ad2.css.map": "/Shopping-Store/static/css/main.e6c13ad2.css.map",
+    "main.c8decee6.js.map": "/Shopping-Store/static/js/main.c8decee6.js.map",
+    "787.34115356.chunk.js.map": "/Shopping-Store/static/js/787.34115356.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.783d2ac8.js"
+    "static/js/main.c8decee6.js"
   ]
 }
