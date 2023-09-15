@@ -1,5 +1,3 @@
-Dear Recuriting Team ,
-
 Welcome to my Thapa Store, an E- commerce web app 
 
 In this project tech stack are : 
@@ -10,7 +8,7 @@ In this project tech stack are :
 
 3. For Styling ( CSS ) : Styled Component is used. 
 
-4. In the Contact page, I embedded the Map From " GOOGLE MAPS "  and the Mail service in which free api call " FORMSPREE API " service is used.
+4. In the Contact page, embedded the Map from " GOOGLE MAPS "  and the Mail service in which free api call " FORMSPREE API " service is used.
 
 5. And other packages were " AXIOS " for URL , " React-Icons " for icons components , " React-Router-Dom " for Navigation.
 
